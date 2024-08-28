@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil0412&label=Profile%20views&color=0e75b6&style=flat" alt="gunjankuthe111" /> </p>
 
-- 🌱 I’m currently working on **Python | OCR Extraction | MySQL | Machine Learning | Deep Learning | Docker | Flask**
+- 🌱 I’m currently working on **Python | OCR Extraction | MySQL | Machine Learning | Deep Learning | Docker | Flask | Exploring GenAI**
 
 - 💬 Ask me about **Data Science**
 
