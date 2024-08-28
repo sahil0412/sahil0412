@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sahilaggarwal.it20@gmail.com**
 
-- 📄 Know about me [Resume](https://drive.google.com/file/d/1zJss8lm78UZg5M4OpuJTpF0EggUfSqRm/view?usp=sharing)
+- 📄 Know about me [Resume](https://drive.google.com/file/d/1GpJu4FD12G0uLCk899JyYbdY85gPa95x/view?usp=sharing)
 
 ### ⚡ My Motivation & Interest's :-
 
