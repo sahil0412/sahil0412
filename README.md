@@ -1,4 +1,4 @@
-![logo](https://www.uat.edu/media/data-science-banner.png)
+![logo](https://media.assettype.com/analyticsinsight%2F2024-07%2F8ca9e062-32af-46e0-830a-bdcc07ef69b1%2FData_Scientist.jpg)
 
 <h1 align="center">Hi 👋, I'm Sahil Aggarwal</h1>
 
